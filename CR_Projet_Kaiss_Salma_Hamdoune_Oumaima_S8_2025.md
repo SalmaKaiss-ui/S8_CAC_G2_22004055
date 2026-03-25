@@ -4,11 +4,11 @@
 │         ÉCOLE NATIONALE DE COMMERCE ET DE GESTION               │
 │                        DE SETTAT                                 │
 │                                                                  │
-│  ─────────────────────────────────────────────────────────────  │
+
 │                                                                  │
 │         COMPTE RENDU DE PROJET DATA SCIENCE                     │
 │                                                                  │
-│  ─────────────────────────────────────────────────────────────  │
+
 │                                                                  │
 │  Intitulé :    Classification des Risques d'Audit par Cycle     │
 │                Comptable — Approche Machine Learning             │
@@ -19,12 +19,9 @@
 │  Encadrant :   [Titre + Prénom NOM de l'encadrant]              │
 │  Période :     Semestre 8 — Année Universitaire 2024–2025       │
 │                                                                  │
-│  ─────────────────────────────────────────────────────────────  │
-│                      Année Universitaire 2024–2025               │
-└─────────────────────────────────────────────────────────────────┘
-```
 
----
+│                      Année Universitaire 2024–2025               │
+
 
 # SOMMAIRE
 
