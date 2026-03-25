@@ -1,7 +1,4 @@
----
 
-```
-┌─────────────────────────────────────────────────────────────────┐
 │                                          Université Hassan 1er  │
 │                                                                  │
 │         ÉCOLE NATIONALE DE COMMERCE ET DE GESTION               │
