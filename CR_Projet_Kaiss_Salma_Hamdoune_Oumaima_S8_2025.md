@@ -14,7 +14,7 @@
 | **Module** | Data Science & Intelligence Artificielle |
 | **Filière** | CAC — Contrôle, Audit & Comptabilité (L3 S8) |
 | **Réalisé par** | Kaiss · Salma · Hamdoune · Oumaima |
-| **Encadrant** | [Titre + Prénom NOM de l'encadrant] |
+| **Encadrant** | [abderrahim larhlimi] |
 | **Période** | Semestre 8 — Année Universitaire 2024–2025 |
 
 **Année Universitaire 2024–2025**
