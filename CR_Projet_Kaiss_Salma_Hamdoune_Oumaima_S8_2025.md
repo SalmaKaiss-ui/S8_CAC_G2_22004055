@@ -10,14 +10,30 @@
 │                                                                  │
 
 │                                                                  │
-│  Intitulé :    Classification des Risques d'Audit par Cycle     │
-│                Comptable — Approche Machine Learning             │
-│  Module :      Data Science & Intelligence Artificielle          │
-│  Filière :     CAC — Contrôle, Audit & Comptabilité (L3 S8)     │
+│  Intitulé :    Classification des Risques d'Audit par CycleComptable — Approche Machine Learning             │
+│  
+
+
+Module :      Data Science & Intelligence Artificielle          │
+│
+
+
+
+Filière :     CAC — Contrôle, Audit & Comptabilité (L3 S8)     │
 │                                                                  │
-│  Réalisés par : Kaiss · Salma · Hamdoune · Oumaima              │
-│  Encadrant :   [Titre + Prénom NOM de l'encadrant]              │
-│  Période :     Semestre 8 — Année Universitaire 2024–2025       │
+│  
+
+
+
+Réalisés par : Kaiss Salma · Hamdoune Oumaima              │
+│  
+
+
+Encadrant :   [Titre + Prénom NOM de l'encadrant]              │
+│ 
+
+
+Période :     Semestre 8 — Année Universitaire 2024–2025       │
 │                                                                  │
 
 │                      Année Universitaire 2024–2025               │
