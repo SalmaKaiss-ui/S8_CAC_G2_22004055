@@ -3,7 +3,7 @@
 **Université Hassan 1er — École Nationale de Commerce et de Gestion de Settat**
 
 
-<img width="100" height="200" alt="image" src="https://github.com/user-attachments/assets/869edf03-201a-4ad6-9b62-bea450375c0f" />
+<img width="100" height="3000" alt="image" src="https://github.com/user-attachments/assets/869edf03-201a-4ad6-9b62-bea450375c0f" />
  
 
 
